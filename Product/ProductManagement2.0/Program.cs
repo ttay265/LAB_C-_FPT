@@ -15,6 +15,7 @@ namespace ProductManagement2._0
             Console.WindowWidth = 86;
             Menu Menu = new Menu("Product Management");
             Menu.ClearPreviousTask = true;
+            Menu.InvalidChoice = "Your choice is not appropriated!! Please choose another one..";
             ProductManager Manage = new ProductManager();
             // Add menu item
             Menu.AddLine("1. Add New Product.");
