@@ -1,0 +1,7 @@
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.exe.config
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.exe
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.pdb
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\bin\Debug\ProductList.dll
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.csprojResolveAssemblyReference.cache
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.exe
+c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.pdb

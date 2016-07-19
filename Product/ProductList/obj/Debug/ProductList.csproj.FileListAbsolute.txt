@@ -1,0 +1,4 @@
+c:\users\tel pai\documents\visual studio 2015\Projects\ProductList\bin\Debug\ProductList.dll
+c:\users\tel pai\documents\visual studio 2015\Projects\ProductList\bin\Debug\ProductList.pdb
+c:\users\tel pai\documents\visual studio 2015\Projects\ProductList\obj\Debug\ProductList.dll
+c:\users\tel pai\documents\visual studio 2015\Projects\ProductList\obj\Debug\ProductList.pdb
