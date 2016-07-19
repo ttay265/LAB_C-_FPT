@@ -13,6 +13,22 @@ namespace ProductManagement2._0
         private bool _ClearPreviousTask;
         private bool _ExitOption;
         private string _LastTaskMessage;
+        private string _InvalidChoice = "Invalid Choice!";
+        private bool _InvalidChosen;
+
+        public bool InvalidChosen
+        {
+            get { return _InvalidChosen; }
+            set { _InvalidChosen = value; }
+        }
+
+
+        public string InvalidChoice
+        {
+            get { return _InvalidChoice; }
+            set { _InvalidChoice = value; }
+        }
+
 
         public string LastTaskMessage
         {
@@ -66,15 +82,17 @@ namespace ProductManagement2._0
             try
             {
                 int choice = int.Parse(Console.ReadLine());
-                if (choice >= 0 && choice <= this.Count)
+                if (choice > 0 && choice <= this.Count)
                 {
                     return choice;
-                }
+                } 
             }
             catch (Exception ex)
             {
             }
+            _InvalidChosen = true;
             return -1;
+            
         }
         public void Display()
         {
@@ -91,6 +109,10 @@ namespace ProductManagement2._0
             if (!string.IsNullOrEmpty(LastTaskMessage))
             {
                 Console.WriteLine("Message: \n{0}", LastTaskMessage);
+            }
+            if (InvalidChosen)
+            {
+                Console.WriteLine("Message: \n{0}", _InvalidChoice);
             }
             Console.Write("\nSelect: ");
         }
