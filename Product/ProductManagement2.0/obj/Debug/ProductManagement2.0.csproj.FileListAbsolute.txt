@@ -5,3 +5,9 @@ c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement
 c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.csprojResolveAssemblyReference.cache
 c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.exe
 c:\users\tel pai\documents\visual studio 2015\Projects\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.pdb
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.exe.config
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.exe
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\bin\Debug\ProductManagement2.0.pdb
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\bin\Debug\ProductList.dll
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.exe
+C:\Users\TEl PAI\Source\Repos\LAB_C-_FPT\Product\ProductManagement2.0\obj\Debug\ProductManagement2.0.pdb
